@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ashleytuscano.rccarcontroller.controller">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Controller" />
+
+    <Button
+        android:id="@+id/leftF"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:layout_below="@+id/title"
+        android:text="Left Forward" />
+
+    <Button
+        android:id="@+id/leftO"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:layout_below="@+id/leftF"
+        android:text="Left OFF" />
+
+    <Button
+        android:id="@+id/leftB"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:layout_below="@+id/leftO"
+        android:text="Left Backward" />
+
+    <Button
+        android:id="@+id/rightF"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/title"
+        android:text="Right Forward" />
+
+    <Button
+        android:id="@+id/rightO"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/rightF"
+        android:text="Right OFF" />
+
+    <Button
+        android:id="@+id/rightB"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/rightO"
+        android:text="Right Backward" />
+
+    <Button
+        android:id="@+id/dis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Disconnect" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lumn"
+        android:layout_marginLeft="6dp"
+        android:layout_marginStart="6dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+
+</RelativeLayout>
