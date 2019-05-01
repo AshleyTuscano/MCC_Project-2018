@@ -17,10 +17,10 @@ Requirements:
 9) Motor Driver (suitable for the motor which you use).
 
 Features:
-The Car will be moving on two wheels.
-Turning will be based on the speed and direction of both wheels.
-Both wheels moving in opposite direction.
-Only one wheel moving.
-One wheel moving at a slower rate than the other.
-There will be speed control over the wheels.
-Ardiuno and Android will be connected via bluetooth.
+1) The Car will be moving on two wheels.
+2) Turning will be based on the speed and direction of both wheels.
+3) Both wheels moving in opposite direction.
+4) Only one wheel moving.
+5) One wheel moving at a slower rate than the other.
+6) There will be speed control over the wheels.
+7) Ardiuno and Android will be connected via bluetooth.
