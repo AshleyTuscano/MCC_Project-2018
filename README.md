@@ -1,4 +1,4 @@
-#MCC_Project-2018
+MCC_Project-2018
 
 Remote Controllled Bot
 
