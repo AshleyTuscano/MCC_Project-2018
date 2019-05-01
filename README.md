@@ -15,3 +15,12 @@ Requirements:
 7) Logic Level Shifter (for the HC-05 or voltage divider can do the trick).
 8) Jumpers (male-male, female-female, male-female).
 9) Motor Driver (suitable for the motor which you use).
+
+Features:
+The Car will be moving on two wheels.
+Turning will be based on the speed and direction of both wheels.
+Both wheels moving in opposite direction.
+Only one wheel moving.
+One wheel moving at a slower rate than the other.
+There will be speed control over the wheels.
+Ardiuno and Android will be connected via bluetooth.
