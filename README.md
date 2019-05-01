@@ -1,6 +1,5 @@
+# Remote Controllled Bot
 MCC_Project-2018
-
-Remote Controllled Bot
 
 In simple terms its an code for the remote controller to control a bot using arduino.
 The controller is and android device but extra hardware is required for the bot.
