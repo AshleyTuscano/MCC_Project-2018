@@ -12,6 +12,6 @@ Requirements:
 4) Chassey.
 5) 1 Mono Wheel.
 6) Bluetooth Module (HC-05).
-7) Logic Level Shifter (for the HC-05 or Register can do the trick).
+7) Logic Level Shifter (for the HC-05 or voltage divider can do the trick).
 8) Jumpers (male-male, female-female, male-female).
 9) Motor Driver (suitable for the motor which you use).
