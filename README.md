@@ -2,7 +2,7 @@
 MCC_Project-2018
 
 In simple terms its an code for the remote controller to control a bot using arduino.
-The controller is and android device but extra hardware is required for the bot.
+The controller is an android device but extra hardware is required for the bot.
 Arduino code is also present in the Repository.
 
 Requirements:
